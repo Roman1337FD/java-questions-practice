@@ -19,6 +19,5 @@ public class TeamProblem {
 
         System.out.println(count);
 
-        sc.close();
     }
 }
